@@ -1,0 +1,5 @@
+Changes for tutorial BSP:
+Remove all portals (apart from +exactportal) as they do nothing but eat file size
+Reduced Triangle count for player clipping
+Reduced Triangle count for the sky (bruh)
+Reduced Triangle count for the two bases 

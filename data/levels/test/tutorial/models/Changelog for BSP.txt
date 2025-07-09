@@ -1,5 +1,7 @@
 Changes for tutorial BSP:
 Remove all portals (apart from +exactportal) as they do nothing but eat file size
 Reduced Triangle count for player clipping
-Reduced Triangle count for the sky (bruh)
-Reduced Triangle count for the two bases 
+Reduced Triangle count for the two bases
+Added a fake skybox (It's a bsp based skybox)
+The stream Now has a realtime reflection
+Better lighting due to increasing shader detail level

@@ -3,3 +3,4 @@ Removed One portal cause it was giving me greif
 JMS was exported with no portals because file size
 UV mapping fixes
 Removed some triangles of no importance.
+Changed some lighting Refer to Images

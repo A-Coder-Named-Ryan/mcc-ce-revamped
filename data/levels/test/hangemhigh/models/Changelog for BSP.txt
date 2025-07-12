@@ -1,0 +1,5 @@
+Changes for tutorial BSP:
+Orginal BSP has optimized a few traiangles
+Added a fake skybox (It's a bsp based skybox)
+Better lighting due to increasing shader detail level
+UV map fixes

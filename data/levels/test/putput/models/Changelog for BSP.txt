@@ -1,0 +1,4 @@
+Changes for tutorial BSP:
+Two car_greenlight! meshes were clipping outside the level & were put back in
+Reduced triangle count from 10,502 (2,281 KB) to 9,814 (2,169 KB)
+Many UV Mapping Fixes 

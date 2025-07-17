@@ -1,0 +1,4 @@
+Changes for tutorial BSP:
+Reduced triangle count from 2,347 to 1,975 then increased it to 2,071
+Fixed/Improved some UVs
+Opened the skybox

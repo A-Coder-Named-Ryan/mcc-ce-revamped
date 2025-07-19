@@ -1,0 +1,5 @@
+Changes for tutorial BSP:
+Reduced triangle count
+Removed portals because file size
+Render Only Faced have been moved closer to adjacent face
+UV Mapping Fixes

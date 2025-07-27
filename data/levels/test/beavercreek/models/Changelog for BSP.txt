@@ -1,0 +1,8 @@
+Changes for tutorial BSP:
+Removed portals because file size
+Render Only Faced have been moved closer to adjacent face
+UV Mapping Fixes
+Gave the river a real time reflection
+The bridge is now partly a climbable surface
+Skybox+
+The dirt in the water is now wet

@@ -1,0 +1,6 @@
+Changes for tutorial BSP:
+Removed portals because file size
+Moss in now closer to the wall
+UV mapping improvments
+Removed Unneeded vertices
+Skybox+
